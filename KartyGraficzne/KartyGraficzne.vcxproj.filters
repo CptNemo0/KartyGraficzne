@@ -51,9 +51,6 @@
     <ClInclude Include="khrplatform.h">
       <Filter>3rd party libraries</Filter>
     </ClInclude>
-    <ClInclude Include="BoxCollider.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cc">
@@ -79,9 +76,6 @@
     </ClCompile>
     <ClCompile Include="glad.cc">
       <Filter>3rd party libraries</Filter>
-    </ClCompile>
-    <ClCompile Include="BoxCollider.cc">
-      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
